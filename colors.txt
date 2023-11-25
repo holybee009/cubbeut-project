@@ -1,0 +1,5 @@
+Font: Poppins
+Colors: 
+row1: 5326C9, 8E54FF, FF79DF
+row2: 181818, 404040
+row3: 733CA4, F167E0
